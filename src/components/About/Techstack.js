@@ -13,8 +13,7 @@ import {
 } from "react-icons/di";
 import { 
   SiPython,
-} from "react-icons/si";
-import { TbBrandGolang } from "react-icons/tb";
+} from "react-icons/si"; 
 
 function Techstack() {
   return (
