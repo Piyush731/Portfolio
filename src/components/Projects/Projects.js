@@ -39,7 +39,7 @@ function Projects() {
               title="Portfolio"
               description="Showcasing my work as Piyush Kasyap, this portfolio highlights my GitHub projects, resume, and technical skills, demonstrating my passion for software development. Built with React.js, Node.js, and Express.js, and styled with CSS3, it reflects my commitment and expertise in crafting innovative web solutions."
               ghLink="https://github.com/Piyush731/Portfolio"
-              demoLink="#"
+              demoLink="https://portfolio-mu-five-76.vercel.app/project"
             />
           </Col>
 
