@@ -5,7 +5,7 @@ import Particle from "../Particle";
 import tictac from "../../Assets/Projects/tictac.png";
 import ERP from "../../Assets/Projects/ERP.PNG";
 import CareerCraft from "../../Assets/Projects/CareerCraft.PNG";
-import suicide from "../../Assets/Projects/suicide.png";
+import ecommerce from "../../Assets/Projects/Ecommerce.png";
 import Portfolio from "../../Assets/Projects/Portfolio.PNG";
 
 function Projects() {
@@ -68,10 +68,10 @@ function Projects() {
             <ProjectCard
               imgPath={ecommerce}
               isBlog={false}
-              title="E Commerce Website"
-              description=" This Python Tic Tac Toe game project is a classic implementation of the popular two-player game, developed using Python. The game allows two players to compete against each other on a 3x3 grid, where the objective is to align three of their symbols (either 'X' or 'O') in a row—horizontally, vertically, or diagonally."
-              ghLink="https://github.com/Piyush731/tic-tac-toe"
-              demoLink="https://tic-tac-toe-game-q2cb.onrender.com/"
+              title="E Commerce Store"
+              description="An E commerce store, a platform where customers can browse and purchase products online. It typically includes features such as product listings, shopping carts, payment gateways, and order management systems. The store is built using various technologies such as HTML, CSS, JavaScript, and server-side programming languages like PHP."
+              ghLink="https://github.com/Piyush731/Ecommerce-Store"
+              demoLink="#"
             />
           </Col> 
         </Row>
