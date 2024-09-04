@@ -4,12 +4,12 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import leaf from "../../Assets/Projects/leaf.png";
 import emotion from "../../Assets/Projects/emotion.png";
-import ERP from "../../Assets/Projects/ERP.PNG";
-import CareerCraft from "../../Assets/Projects/CareerCraft.PNG";
+import editor from "../../Assets/Projects/codeEditor.png";
+import chatify from "../../Assets/Projects/chatify.png";
 import suicide from "../../Assets/Projects/suicide.png";
-import Portfolio from "../../Assets/Projects/Portfolio.PNG";
+import bitsOfCode from "../../Assets/Projects/blog.png";
 
-function Projects() {
+function Experiences() {
   return (
     <Container fluid className="project-section">
       <Particle />
@@ -23,35 +23,34 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={CareerCraft}
+              imgPath={chatify}
               isBlog={false}
-              title="CareerCraft"
-              description="An ATS (Applicant Tracking System) Optimized Resume Analyzer, This innovative system empowers job seekers by providing valuable insights into their resumes'
-               compatibility with job descriptions, identifying missing keywords, and offering tailored profile summaries."
-              ghLink="https://github.com/Piyush731/ATS-optimized-resume-analyzer-using-gemini-model/"
-              demoLink="https://ats-optimized-resume-analyzer-using.onrender.com/"
+              title="Chatify"
+              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
+              ghLink="https://github.com/soumyajit4419/Chatify"
+              demoLink="https://chatify-49.web.app/"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={Portfolio}
+              imgPath={bitsOfCode}
               isBlog={false}
-              title="Portfolio"
-              description="Showcasing my work as Piyush Kasyap, this portfolio highlights my GitHub projects, resume, and technical skills, demonstrating my passion for software development. Built with React.js, Node.js, and Express.js, and styled with CSS3, it reflects my commitment and expertise in crafting innovative web solutions."
-              ghLink="https://github.com/Piyush731/Portfolio"
-              demoLink="#"
+              title="Bits-0f-C0de"
+              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
+              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
+              demoLink="https://blogs.soumya-jit.tech/"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={ERP}
+              imgPath={editor}
               isBlog={false}
-              title="Enterprise resource planning Management System"
-              description="An ERP management system that enables admin users to add, view, and remove student and faculty records, while student users can access their own information and updates"
-              ghLink="https://github.com/Piyush731/ERP-Management-System"
-              demoLink="#"              
+              title="Editor.io"
+              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
+              ghLink="https://github.com/soumyajit4419/Editor.io"
+              demoLink="https://editor.soumya-jit.tech/"              
             />
           </Col>
 
@@ -94,4 +93,4 @@ function Projects() {
   );
 }
 
-export default Projects;
+export default Experiences;
