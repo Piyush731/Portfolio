@@ -61,7 +61,7 @@ function Projects() {
               title="Tic-Tac-Toe"
               description=" This Python Tic Tac Toe game project is a classic implementation of the popular two-player game, developed using Python. The game allows two players to compete against each other on a 3x3 grid, where the objective is to align three of their symbols (either 'X' or 'O') in a row—horizontally, vertically, or diagonally."
               ghLink="https://github.com/Piyush731/tic-tac-toe"
-              demoLink="https://tic-tac-toe-game-q2cb.onrender.com/"
+              demoLink="https://tic-tac-toe-ntja.onrender.com/"
             />
           </Col> 
           <Col md={4} className="project-card">
