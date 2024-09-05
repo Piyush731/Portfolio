@@ -7,6 +7,7 @@ import ERP from "../../Assets/Projects/ERP.PNG";
 import CareerCraft from "../../Assets/Projects/CareerCraft.PNG";
 import ecommerce from "../../Assets/Projects/Ecommerce.png";
 import Portfolio from "../../Assets/Projects/Portfolio.PNG";
+import Garage from "../../Assets/Projects/Garage.PNG";
 
 function Projects() {
   return (
@@ -72,6 +73,15 @@ function Projects() {
               description="An E commerce store, a platform where customers can browse and purchase products online. It typically includes features such as product listings, shopping carts, payment gateways, and order management systems. The store is built using various technologies such as HTML, CSS, JavaScript, and server-side programming languages like PHP."
               ghLink="https://github.com/Piyush731/Ecommerce-Store"
               demoLink="#"
+            />
+          </Col> 
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={Garage}
+              isBlog={false}
+              title="Garage Management System"
+              description="A Garage Management System (GMS) built on the Salesforce Platform is a comprehensive solution designed to streamline and optimize the operations of a garage or automotive repair facility. It leverages Salesforce's capabilities to manage various aspects of garage management" 
+              ghLink= "https://github.com/Piyush731/Garage-management-system"
             />
           </Col> 
         </Row>
