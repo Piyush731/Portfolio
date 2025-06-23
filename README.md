@@ -1,18 +1,50 @@
-My Portfolio
-Welcome to my portfolio! This repository showcases a collection of projects and skills I've developed using a variety of technologies.
- 
-This project was built using these technologies.
-React.js
-Node.js
-Express.js
-CSS3
-VsCode
-Vercel
+# 🚀 Personal Portfolio – Piyush Kashyap
 
-About Me
-Hi there! I'm Piyush, a passionate software developer with a focus on Web development, mobile app development, data science and more.
+![Portfolio Screenshot](https://your-screenshot-link-if-you-have-one.png)
 
-Feel free to reach out to me via:
-Email: piyushkashyap3247@gmail.com
-LinkedIn: https://www.linkedin.com/in/piyush-kashyap731
-GitHub: https://github.com/Piyush731
+A responsive, modern, and minimal portfolio built using **React.js**, styled with **HTML5, CSS3, and Bootstrap**, and designed to showcase my **projects, skills, and contact information** in a clean, developer-friendly layout.
+
+🔗 **Live Preview**: [Click here to visit](https://your-deployed-site-link.com)
+
+---
+
+## 🧰 Tech Stack
+
+- ⚛️ **React.js** – Component-based architecture
+- 🖼️ **HTML5 & CSS3** – Structure and styling
+- 🎨 **Bootstrap / FW.js** – For responsive design and layout
+- 🌐 **JavaScript (ES6+)** – Dynamic UI interactions
+
+---
+
+## 📂 Project Structure
+
+/Portfolio
+│
+├── public/                 # Static files (favicon, index.html)
+├── src/
+│   ├── components/         # Reusable components (Navbar, Projects, Footer, etc.)
+│   ├── assets/             # Images, icons
+│   ├── App.js              # Main App container
+│   └── index.js            # Entry point
+├── .gitignore
+├── package.json
+└── README.md
+
+-✨ **Features**
+✅ Clean, mobile-responsive layout
+
+✅ Sectioned pages: About, Skills, Projects, Contact
+
+✅ Easily customizable content
+
+✅ Smooth scrolling and interactive UI
+
+✅ Deployed-ready build
+
+- 📦 **Installation & Setup (For Local Use)**
+git clone https://github.com/Piyush731/Portfolio.git
+cd Portfolio
+npm install
+npm start
+This will run the project at http://localhost:3000/
