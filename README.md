@@ -17,34 +17,34 @@ A responsive, modern, and minimal portfolio built using **React.js**, styled wit
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Structure <br>
 
-/Portfolio
-│
-├── public/                 # Static files (favicon, index.html)
-├── src/
-│   ├── components/         # Reusable components (Navbar, Projects, Footer, etc.)
-│   ├── assets/             # Images, icons
-│   ├── App.js              # Main App container
-│   └── index.js            # Entry point
-├── .gitignore
-├── package.json
-└── README.md
+/Portfolio<br>
+│<br>
+├── public/                 # Static files (favicon, index.html)   <br>
+├── src/ <br>
+│   ├── components/         # Reusable components (Navbar, Projects, Footer, etc.) <br>
+│   ├── assets/             # Images, icons  <br>
+│   ├── App.js              # Main App container <br>
+│   └── index.js            # Entry point <br>
+├── .gitignore <br>
+├── package.json<br>
+└── README.md<br>
 
--✨ **Features**
-✅ Clean, mobile-responsive layout
+-✨ **Features** <br>
+✅ Clean, mobile-responsive layout <br>
 
-✅ Sectioned pages: About, Skills, Projects, Contact
+✅ Sectioned pages: About, Skills, Projects, Contact <br>
 
-✅ Easily customizable content
+✅ Easily customizable content<br>
 
-✅ Smooth scrolling and interactive UI
+✅ Smooth scrolling and interactive UI<br>
 
-✅ Deployed-ready build
+✅ Deployed-ready build<br>
 
 - 📦 **Installation & Setup (For Local Use)**
-git clone https://github.com/Piyush731/Portfolio.git
-cd Portfolio
-npm install
-npm start
-This will run the project at http://localhost:3000/
+git clone https://github.com/Piyush731/Portfolio.git <br> 
+cd Portfolio<br>
+npm install <br>
+npm start<br>
+This will run the project at http://localhost:3000/<br>
