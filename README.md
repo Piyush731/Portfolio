@@ -31,7 +31,7 @@ A responsive, modern, and minimal portfolio built using **React.js**, styled wit
 ├── package.json<br>
 └── README.md<br>
 
--✨ **Features** <br>
+✨ **Features** <br>
 ✅ Clean, mobile-responsive layout <br>
 
 ✅ Sectioned pages: About, Skills, Projects, Contact <br>
@@ -42,7 +42,7 @@ A responsive, modern, and minimal portfolio built using **React.js**, styled wit
 
 ✅ Deployed-ready build<br>
 
-- 📦 **Installation & Setup (For Local Use)**
+📦 **Installation & Setup (For Local Use)**
 git clone https://github.com/Piyush731/Portfolio.git <br> 
 cd Portfolio<br>
 npm install <br>
