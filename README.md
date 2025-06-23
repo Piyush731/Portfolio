@@ -1,10 +1,10 @@
 # 🚀 Personal Portfolio – Piyush Kashyap
 
-![Portfolio Screenshot](https://your-screenshot-link-if-you-have-one.png)
+![portfoliome](https://github.com/user-attachments/assets/9318633b-2afe-46ba-89fd-3e3d2775073f)
 
 A responsive, modern, and minimal portfolio built using **React.js**, styled with **HTML5, CSS3, and Bootstrap**, and designed to showcase my **projects, skills, and contact information** in a clean, developer-friendly layout.
 
-🔗 **Live Preview**: [Click here to visit](https://your-deployed-site-link.com)
+🔗 **Live Preview**: [Click here to visit](https://portfolio-mu-five-76.vercel.app/)
 
 ---
 
